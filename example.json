@@ -1,0 +1,275 @@
+{
+    "usuarios":[
+    {
+    "nick":"betebetoven",
+    "password":"jaja",
+    "monedas":"100",
+    "edad":"32"
+    },
+    {
+    "nick":"sofiaruano",
+    "password":"Blaancamagy",
+    "monedas":"10000",
+    "edad":"22"
+    },
+    {
+    "nick":"colosho",
+    "password":"colosho",
+    "monedas":"0",
+    "edad":"2"
+    },
+        {
+            "nick": "sdobble0",
+            "password": "RrQk5kx",
+            "monedas": "2311",
+            "edad": "7"
+        },
+        {
+            "nick": "shattersley1",
+            "password": "WWS4Z7pD4g4v",
+            "monedas": "273",
+            "edad": "9"
+        },
+        {
+            "nick": "dgatheridge2",
+            "password": "Q8H0gy4Q",
+            "monedas": "3",
+            "edad": "3"
+        },
+        {
+            "nick": "braggatt3",
+            "password": "khgOuAZ",
+            "monedas": "41",
+            "edad": "30"
+        },
+        {
+            "nick": "ramdohr4",
+            "password": "lVJ9JKcWnK",
+            "monedas": "9595",
+            "edad": "80"
+        },
+        {
+            "nick": "yhealks5",
+            "password": "Lwt7PcZ5D6o",
+            "monedas": "330",
+            "edad": "7"
+        },
+        {
+            "nick": "mparvin6",
+            "password": "UOj7xyHhm",
+            "monedas": "9",
+            "edad": "60"
+        },
+        {
+            "nick": "dsuckling7",
+            "password": "ipvLuwHvRA",
+            "monedas": "65",
+            "edad": "1"
+        },
+        {
+            "nick": "fdrayson8",
+            "password": "JCg9Rq",
+            "monedas": "52601",
+            "edad": "8"
+        },
+        {
+            "nick": "ssummerson9",
+            "password": "2fBKS5tWP",
+            "monedas": "0",
+            "edad": "216"
+        },
+        {
+            "nick": "ddowsinga",
+            "password": "sh2fTH8i",
+            "monedas": "263711",
+            "edad": "0"
+        },
+        {
+            "nick": "alearmouthb",
+            "password": "uz4OKzvU4lP",
+            "monedas": "2629",
+            "edad": "4"
+        },
+        {
+            "nick": "kwoodstockc",
+            "password": "d3IpQQ",
+            "monedas": "93962",
+            "edad": "9"
+        },
+        {
+            "nick": "hajeand",
+            "password": "RpD6BuoSljw1",
+            "monedas": "048",
+            "edad": "08"
+        },
+        {
+            "nick": "fmahere",
+            "password": "362QTQ9cH9",
+            "monedas": "7303",
+            "edad": "905"
+        },
+        {
+            "nick": "cmcturkf",
+            "password": "HMgHyhEk",
+            "monedas": "4",
+            "edad": "414"
+        },
+        {
+            "nick": "tommanneyg",
+            "password": "c4FclZ",
+            "monedas": "9",
+            "edad": "96"
+        },
+        {
+            "nick": "ALLBENIZ",
+            "password": "nyNhqnlODgP",
+            "monedas": "9",
+            "edad": "520"
+        },
+        {
+            "nick": "GOETHE",
+            "password": "JkqdreoMT",
+            "monedas": "74558",
+            "edad": "7"
+        },
+        {
+            "nick": "ARISTOTELES",
+            "password": "0mKSLip8Lgq",
+            "monedas": "8530",
+            "edad": "901"
+        },
+        {
+            "nick": "PLATON",
+            "password": "10cGe8YICm",
+            "monedas": "481",
+            "edad": "7"
+        },
+        {
+            "nick": "BEAUVUOIR",
+            "password": "lqR7joMJgm",
+            "monedas": "2299",
+            "edad": "73"
+        },
+        {
+            "nick": "MAYER",
+            "password": "FTi5L8e",
+            "monedas": "6",
+            "edad": "36"
+        },
+        {
+            "nick": "NIETZSCHE",
+            "password": "bdgGjUwK5lZu",
+            "monedas": "015",
+            "edad": "293"
+        },
+        {
+            "nick": "HEGEL",
+            "password": "MT9YuUj89zW5",
+            "monedas": "781217",
+            "edad": "058"
+        },
+        {
+            "nick": "FRANKIE",
+            "password": "P4MqRU3y9",
+            "monedas": "071",
+            "edad": "650"
+        },
+        {
+            "nick": "KUNDERA",
+            "password": "hGyAQTFAVWwV",
+            "monedas": "6",
+            "edad": "07"
+        },
+        {
+            "nick": "BAUDELAIRE",
+            "password": "uouptSI",
+            "monedas": "38418",
+            "edad": "1"
+        },
+        {
+            "nick": "MONTESQUI",
+            "password": "Rplp0Wel9QZ",
+            "monedas": "405",
+            "edad": "31"
+        },
+        {
+            "nick": "DIDEROT",
+            "password": "SYtKDeGg8z",
+            "monedas": "6",
+            "edad": "4"
+        },
+        {
+            "nick": "VOLTAIRE",
+            "password": "is7Y2oJ",
+            "monedas": "702",
+            "edad": "388"
+        },
+        {
+            "nick": "CAMUS",
+            "password": "tApjbv8PgT",
+            "monedas": "3",
+            "edad": "697"
+        },
+        {
+            "nick": "bga",
+            "password": "wHNadUJo9ax",
+            "monedas": "41",
+            "edad": "465"
+        }
+    ],
+    "articulos":[
+    {
+    "id":"0",
+    "categoria":"asalto",
+    "precio":"12",
+    "nombre":"M13",
+    "src":"e"
+    },
+    {
+    "id":"1",
+    "categoria":"subfusil",
+    "precio":"23",
+    "nombre":"Mac",
+    "src":"e"
+    },
+    {
+    "id":"2",
+    "categoria":"escopeta",
+    "precio":"56",
+    "nombre":"Mimilona",
+    "src":"e"
+    },
+    {
+    "id":"2",
+    "categoria":"escopeta",
+    "precio":"56",
+    "nombre":"Mimilona",
+    "src":"e"
+    },
+    {
+    "id":"2",
+    "categoria":"F",
+    "precio":"110",
+    "nombre":"Mimilona",
+    "src":"e"
+    }
+    ],
+    "tutorial":{
+    "ancho":"10",
+    "alto":"20",
+    "movimientos":[
+    {
+    "x":"1",
+    "y":"2"
+    },
+    {
+    "x":"3",
+    "y":"4"
+    },
+    {
+    "x":"5",
+    "y":"6"
+    }
+    ]
+    }
+    }

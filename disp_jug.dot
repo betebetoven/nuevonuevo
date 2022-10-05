@@ -1,0 +1,94 @@
+digraph G
+{label="expresion regular"
+        node[shape = square]
+        node[style = filled]
+        node[fillcolor = "#EEEEE"]
+        node[color = "#EEEEE"]
+        node[color = "#31CEF0"]
+
+500380263760[label="{c:[x:-1,y:-1],b:root}",fillcolor = "white"]
+500380263904[label="{c:[x:0,y:-1],b:ejex}",fillcolor = "white"]
+500380264048[label="{c:[x:1,y:-1],b:ejex}",fillcolor = "white"]
+500380264192[label="{c:[x:2,y:-1],b:ejex}",fillcolor = "white"]
+500380264336[label="{c:[x:3,y:-1],b:ejex}",fillcolor = "white"]
+500380264480[label="{c:[x:4,y:-1],b:ejex}",fillcolor = "white"]
+500380264624[label="{c:[x:5,y:-1],b:ejex}",fillcolor = "white"]
+500380264768[label="{c:[x:6,y:-1],b:ejex}",fillcolor = "white"]
+500380264912[label="{c:[x:7,y:-1],b:ejex}",fillcolor = "white"]
+500380265056[label="{c:[x:8,y:-1],b:ejex}",fillcolor = "white"]
+500380265200[label="{c:[x:9,y:-1],b:ejex}",fillcolor = "white"]
+500380265344[label="{c:[x:-1,y:0],b:ejey}",fillcolor = "white"]
+500380265488[label="{c:[x:-1,y:1],b:ejey}",fillcolor = "white"]
+500380265632[label="{c:[x:-1,y:2],b:ejey}",fillcolor = "white"]
+500380373344[label="{c:[x:0,y:2],b:missed}",fillcolor = "red"]
+500380373680[label="{c:[x:1,y:2],b:missed}",fillcolor = "red"]
+500380251808[label="{c:[x:2,y:2],b:golpe}",fillcolor = "green"]
+500380373920[label="{c:[x:3,y:2],b:missed}",fillcolor = "red"]
+500380374160[label="{c:[x:4,y:2],b:missed}",fillcolor = "red"]
+500380374400[label="{c:[x:5,y:2],b:missed}",fillcolor = "red"]
+500380374640[label="{c:[x:6,y:2],b:missed}",fillcolor = "red"]
+500380374880[label="{c:[x:7,y:2],b:missed}",fillcolor = "red"]
+500380375120[label="{c:[x:8,y:2],b:missed}",fillcolor = "red"]
+500380375360[label="{c:[x:9,y:2],b:missed}",fillcolor = "red"]
+500380265776[label="{c:[x:-1,y:3],b:ejey}",fillcolor = "white"]
+500380265920[label="{c:[x:-1,y:4],b:ejey}",fillcolor = "white"]
+500380266064[label="{c:[x:-1,y:5],b:ejey}",fillcolor = "white"]
+500380266208[label="{c:[x:-1,y:6],b:ejey}",fillcolor = "white"]
+500380266352[label="{c:[x:-1,y:7],b:ejey}",fillcolor = "white"]
+500380270656[label="{c:[x:-1,y:8],b:ejey}",fillcolor = "white"]
+500380270800[label="{c:[x:-1,y:9],b:ejey}",fillcolor = "white"]
+500380376320[label="{c:[x:9,y:9],b:missed}",fillcolor = "red"]
+500380263760->500380265344[dir = both];
+500380265344->500380265488[dir = both];
+500380265488->500380265632[dir = both];
+500380265632->500380265776[dir = both];
+500380265776->500380265920[dir = both];
+500380265920->500380266064[dir = both];
+500380266064->500380266208[dir = both];
+500380266208->500380266352[dir = both];
+500380266352->500380270656[dir = both];
+500380270656->500380270800[dir = both];
+500380263904->500380373344[dir = both];
+500380264048->500380373680[dir = both];
+500380264192->500380251808[dir = both];
+500380264336->500380373920[dir = both];
+500380264480->500380374160[dir = both];
+500380264624->500380374400[dir = both];
+500380264768->500380374640[dir = both];
+500380264912->500380374880[dir = both];
+500380265056->500380375120[dir = both];
+500380265200->500380375360[dir = both];
+500380375360->500380376320[dir = both];
+500380263760->500380263904[dir = both];
+500380263904->500380264048[dir = both];
+500380264048->500380264192[dir = both];
+500380264192->500380264336[dir = both];
+500380264336->500380264480[dir = both];
+500380264480->500380264624[dir = both];
+500380264624->500380264768[dir = both];
+500380264768->500380264912[dir = both];
+500380264912->500380265056[dir = both];
+500380265056->500380265200[dir = both];
+500380265632->500380373344[constraint=false,dir = both];
+500380373344->500380373680[constraint=false,dir = both];
+500380373680->500380251808[constraint=false,dir = both];
+500380251808->500380373920[constraint=false,dir = both];
+500380373920->500380374160[constraint=false,dir = both];
+500380374160->500380374400[constraint=false,dir = both];
+500380374400->500380374640[constraint=false,dir = both];
+500380374640->500380374880[constraint=false,dir = both];
+500380374880->500380375120[constraint=false,dir = both];
+500380375120->500380375360[constraint=false,dir = both];
+500380270800->500380376320[constraint=false,dir = both];
+ {rank=same; 500380263760;500380263904;500380264048;500380264192;500380264336;500380264480;500380264624;500380264768;500380264912;500380265056;500380265200;}
+ {rank=same; 500380265344;}
+ {rank=same; 500380265488;}
+ {rank=same; 500380265632;500380373344;500380373680;500380251808;500380373920;500380374160;500380374400;500380374640;500380374880;500380375120;500380375360;}
+ {rank=same; 500380265776;}
+ {rank=same; 500380265920;}
+ {rank=same; 500380266064;}
+ {rank=same; 500380266208;}
+ {rank=same; 500380266352;}
+ {rank=same; 500380270656;}
+ {rank=same; 500380270800;500380376320;}
+}

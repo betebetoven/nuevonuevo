@@ -1,0 +1,74 @@
+digraph G {
+node[shape=record]
+		//Agregar Nodos Rama
+R0x7f7a1c02e2f0[label="<C1>|469951216 
+ yhealks5|<C2>|469981616 
+ fmahere|<C3>|470012016 
+ NIETZSCHE|<C4>"];
+R0x7f7a1c02dcb0[label="<C1>|469949616 
+ colosho|<C2>|469950416 
+ dgatheridge2|<C3>"];
+R0x7f7a1c024390[label="469910416 
+ betebetoven|469911216 
+ sofiaruano"];
+R0x7f7a1c0265f0[label="469919216 
+ sdobble0|469920016 
+ shattersley1"];
+R0x7f7a1c028850[label="469928016 
+ braggatt3|469928816 
+ ramdohr4"];
+R0x7f7a1c035370[label="<C1>|469980016 
+ fdrayson8|<C2>|469980816 
+ alearmouthb|<C3>"];
+R0x7f7a1c02aab0[label="469936816 
+ mparvin6|469937616 
+ dsuckling7"];
+R0x7f7a1c02cd10[label="469945616 
+ ssummerson9|469946416 
+ ddowsinga"];
+R0x7f7a1c02ff10[label="469958416 
+ kwoodstockc|469959216 
+ hajeand"];
+R0x7f7a1c03ca30[label="<C1>|470010416 
+ ALLBENIZ|<C2>|470011216 
+ PLATON|<C3>"];
+R0x7f7a1c032170[label="469967216 
+ cmcturkf|469968016 
+ tommanneyg"];
+R0x7f7a1c0343d0[label="469976016 
+ GOETHE|469976816 
+ ARISTOTELES"];
+R0x7f7a1c0375d0[label="469988816 
+ BEAUVUOIR|469989616 
+ MAYER"];
+R0x7f7a1c03d390[label="<C1>|470012816 
+ KUNDERA|<C2>|470013616 
+ DIDEROT|<C3>"];
+R0x7f7a1c039830[label="469997616 
+ HEGEL|469998416 
+ FRANKIE"];
+R0x7f7a1c03ba90[label="470006416 
+ BAUDELAIRE|470007216 
+ MONTESQUI"];
+R0x7f7a1c03c3f0[label="470008816 
+ VOLTAIRE|470009616 
+ CAMUS|470014512 
+ bga"];
+		//Agregar conexiones
+R0x7f7a1c02e2f0:C1->R0x7f7a1c02dcb0;
+R0x7f7a1c02dcb0:C1->R0x7f7a1c024390;
+R0x7f7a1c02dcb0:C2->R0x7f7a1c0265f0;
+R0x7f7a1c02dcb0:C3->R0x7f7a1c028850;
+R0x7f7a1c02e2f0:C2->R0x7f7a1c035370;
+R0x7f7a1c035370:C1->R0x7f7a1c02aab0;
+R0x7f7a1c035370:C2->R0x7f7a1c02cd10;
+R0x7f7a1c035370:C3->R0x7f7a1c02ff10;
+R0x7f7a1c02e2f0:C3->R0x7f7a1c03ca30;
+R0x7f7a1c03ca30:C1->R0x7f7a1c032170;
+R0x7f7a1c03ca30:C2->R0x7f7a1c0343d0;
+R0x7f7a1c03ca30:C3->R0x7f7a1c0375d0;
+R0x7f7a1c02e2f0:C4->R0x7f7a1c03d390;
+R0x7f7a1c03d390:C1->R0x7f7a1c039830;
+R0x7f7a1c03d390:C2->R0x7f7a1c03ba90;
+R0x7f7a1c03d390:C3->R0x7f7a1c03c3f0;
+}
